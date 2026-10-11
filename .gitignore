@@ -1,0 +1,11 @@
+# Editors
+.idea
+/src/github.com
+/src/gorm.io
+/src/golang.org
+/src/google.golang.org
+/src/gopkg.in/
+/bin/*.exe
+/pkg/sumdb/
+/pkg/mod/
+/pkg/windows_amd64
